@@ -1,0 +1,10 @@
+train: filtered/train/images
+val: filtered/valid/images
+
+nc: 4
+
+names:
+  0: Hardhat
+  1: NO-Hardhat
+  2: Safety Vest
+  3: NO-Safety Vest

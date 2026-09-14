@@ -1,0 +1,21 @@
+# Python environments and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Editor settings
+.vscode/
+
+# Training data, generated files, and large media/model artifacts
+dataset/
+filtered/
+runs/
+weights/
+*.zip
+*.mp4
+*.pt
+*.onnx
+
+# Local environment files
+.env
+*.log
