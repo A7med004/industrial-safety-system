@@ -1,4 +1,4 @@
-# Industrial Safety System
+# Industrial Safety System <POC>
 
 A proof of concept that uses YOLOv8 to detect safety equipment (PPE) in video footage.
 
