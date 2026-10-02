@@ -9,7 +9,6 @@ __pycache__/
 # Training data, generated files, and large media/model artifacts
 dataset/
 filtered/
-runs/
 weights/
 *.zip
 *.mp4
