@@ -12,7 +12,6 @@ filtered/
 weights/
 *.zip
 *.mp4
-*.pt
 *.onnx
 
 # Local environment files
